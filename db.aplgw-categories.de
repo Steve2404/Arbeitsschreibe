@@ -1,0 +1,75 @@
+id[$Rev: 7896 $](i-u),name(s),gid(i)
+1:Pornografie:0
+2:Erotik / Sex:0
+3:Bademoden / Dessous:0
+4:Einkaufen:1
+5:Auktionen / Kleinanzeigen:1
+6:Staatliche Institutionen:2
+7:Nichtstaatliche Organisationen:2
+8:Städte / Länder / Regionen:2
+9:Bildung / Erziehung / Aufklärung:2
+10:Parteien:2
+11:Religion:2
+12:Sekten:2
+13:Illegale Aktivitäten:3
+14:Computerkriminalität / Hacking:3
+15:Politisch Extrem / Hass / Diskriminierung:3
+16:Warez / Softwarepiraterie:3
+17:Gewalt / Extrem:4
+18:Glücksspiel / Lotterie / Gewinnspiele:5
+19:Computerspiele:5
+20:Spielwaren:5
+21:Kino / Fernsehen:6
+22:Freizeiteinrichtungen / Freizeitparks:6
+23:Kunst / Museen / Theater:6
+24:Musik / Radio:6
+25:Belletristik / Bücher:6
+26:Humor / Cartoons:6
+27:Nachrichten / Magazine:7
+28:Webmail / Unified Messaging:7
+29:Chat:7
+30:Blogs / Foren:7
+31:Mobiltelefonie:7
+32:Digitale Postkarten:7
+33:Suchmaschinen / Webkataloge / Portale:7
+34:Software / Hardware:8
+35:Kommunikationsdienstleistungen:8
+36:IT-Sicherheit / IT-Informationen:8
+37:Webseitenübersetzung:8
+38:Anonyme Proxies:8
+39:Illegale Drogen:9
+40:Alkohol:9
+41:Tabak:9
+42:Selbsthilfe / Abhängigkeit:9
+43:Dating:10
+44:Restaurants / Unterhaltungsveranstaltungen:10
+45:Reisen:10
+46:Mode / Kosmetik / Schmuck:10
+47:Sport:10
+48:Architektur / Baugewerbe / Mobiliar:10
+49:Umwelt / Klima / Haustiere:10
+50:Persönliche Webseiten:11
+51:Jobsuche:12
+52:Aktienhandel / Börse:13
+53:Finanzdienstleistungen / Versicherungen / Immobilien:13
+54:Bankwesen:13
+55:Fahrzeuge:14
+56:Waffen / Militär:15
+57:Gesundheit:16
+58:Abtreibung:16
+60:Spam-URLs:18
+61:Malware:19
+62:Phishing-URLs:18
+63:Instant Messaging:7
+67:Allgemeine Geschäftstätigkeiten:20
+69:Kryptowährungs-Mining:8
+74:Bannerwerbung:1
+77:Soziale Netzwerke:21
+78:Geschäftsnetzwerke:21
+79:Social Media:6
+80:Webdateisysteme:8
+82:Botnetz-Command-and-Control-Server:3
+83:Cloud:8
+84:Infrastructure as a Service:8
+85:Platform as a Service:8
+86:Software as a Service:8
